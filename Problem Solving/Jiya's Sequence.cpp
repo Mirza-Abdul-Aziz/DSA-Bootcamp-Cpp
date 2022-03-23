@@ -18,7 +18,7 @@ using namespace std;
 int main(){
     int t;
     cin>>t;
-    int mul = 1;
+    ll mul = 1;
     while(t--){
         int n;
         cin>>n;
